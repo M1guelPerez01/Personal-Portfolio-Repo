@@ -30,7 +30,7 @@ html {
     padding: 60px 0;
   }
   
-  li {
+  .header-list {
     display: inline;
     padding: 0px 20px;
     text-decoration: none;
@@ -76,4 +76,9 @@ html {
   .text-left {
     text-align: left;
   }
+
+.column {
+  display: flex;
+  justify-content: center;
+}
   
